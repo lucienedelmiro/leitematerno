@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Leite Materno</string>
+    <string name="action_sign_in_short">Cadastro</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Senha curta, mínimo de 6 caracteres.</string>
+    <string name="auth_failed">Falha na autenticação!</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Esqueceu a senha?</string>
+    <string name="btn_reset_password">Resetar Senha</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="lbl_forgot_password">Esqueceu a senha?</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+
+</resources>
